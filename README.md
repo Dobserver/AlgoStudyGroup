@@ -1,3 +1,3 @@
-# QishiAlgoStudyGroup
+AlgoStudyGroup
 
-This repository is for Qishi Algorithm Study Group only. Please do NOT share the codes here with people outside this group.
+This repository is for the Algorithm Study Group only.
